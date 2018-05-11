@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1525287928 source:c:\users\jdefelipe_mecon\downloads\a aaa tp2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1525276265 c:\users\jdefelipe_mecon\downloads\a aaa tp2\tp_2_cascara\funciones.h
+
+1525275023 c:\users\jdefelipe_mecon\downloads\a aaa tp2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1525560052 source:c:\users\joe\downloads\a aaa tp2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+	"funciones.c"
+
+1525493148 c:\users\joe\downloads\a aaa tp2\tp_2_cascara\funciones.h
+
+1525563869 c:\users\joe\downloads\a aaa tp2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1525560052 source:c:\users\joe\downloads\a aaa tp2\tp_2_cascara - copia para pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+	"funciones.c"
+
+1525493148 c:\users\joe\downloads\a aaa tp2\tp_2_cascara - copia para pruebas\funciones.h
+
+1525566784 c:\users\joe\downloads\a aaa tp2\tp_2_cascara - copia para pruebas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1525560052 source:c:\users\joe\downloads\a aaa tp2\tp_2_cascara - copia para pruebas - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+	"funciones.c"
+
+1525493148 c:\users\joe\downloads\a aaa tp2\tp_2_cascara - copia para pruebas - copia\funciones.h
+
+1525566784 c:\users\joe\downloads\a aaa tp2\tp_2_cascara - copia para pruebas - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
