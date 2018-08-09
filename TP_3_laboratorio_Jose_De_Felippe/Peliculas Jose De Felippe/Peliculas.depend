@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1527465372 source:c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1527465402 c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\validaciones.h
+
+1528344999 source:c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"movie.h"
+	"validaciones.h"
+
+1528072202 c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\movie.h
+
+1528347151 source:c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\movie.c
+	"movie.h"
+	"validaciones.h"
+	"archi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528082739 source:c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+
+1528082414 c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\archi.h
+	"movie.h"
+
+1528321881 source:c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\menu.c
+	<string.h>
+	<stdio.h>
+	"validaciones.h"
+	"movie.h"
+	"menu.h"
+
+1528071675 c:\users\matias\documents\curso de c\tp_3_mcarizu\peliculas\menu.h
+	"movie.h"
+
+1528715066 source:c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+
+1528715066 c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\movie.h
+
+1528715066 source:c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"movie.h"
+	"validaciones.h"
+
+1528715066 c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\validaciones.h
+
+1528715066 source:c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\menu.c
+	<string.h>
+	<stdio.h>
+	"validaciones.h"
+	"movie.h"
+	"menu.h"
+
+1528715066 c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\menu.h
+	"movie.h"
+
+1528715066 source:c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\movie.c
+	"movie.h"
+	"validaciones.h"
+	"archi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528715066 c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\archi.h
+	"movie.h"
+
+1528715066 source:c:\users\joe\downloads\a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1533843845 source:c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+
+1533839770 c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\movie.h
+
+1533842527 source:c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"movie.h"
+	"validaciones.h"
+
+1528715066 c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\validaciones.h
+
+1533844172 source:c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\menu.c
+	<string.h>
+	<stdio.h>
+	"validaciones.h"
+	"movie.h"
+	"menu.h"
+
+1528715066 c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\menu.h
+	"movie.h"
+
+1528715066 source:c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1533844440 source:c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\movie.c
+	"movie.h"
+	"validaciones.h"
+	"archi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528715066 c:\users\joe\downloads\1 - a tps labs1\z - tp_3_laboratorio_mcarizu - copia\peliculas\archi.h
+	"movie.h"
+
+1533843845 source:c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+
+1533839770 c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\movie.h
+
+1533842527 source:c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"movie.h"
+	"validaciones.h"
+
+1528715066 c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\validaciones.h
+
+1533844172 source:c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\menu.c
+	<string.h>
+	<stdio.h>
+	"validaciones.h"
+	"movie.h"
+	"menu.h"
+
+1528715066 c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\menu.h
+	"movie.h"
+
+1533844440 source:c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\movie.c
+	"movie.h"
+	"validaciones.h"
+	"archi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528715066 c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\archi.h
+	"movie.h"
+
+1528715066 source:c:\users\joe\downloads\tp_3_laboratorio_jose_de_felippe\peliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
